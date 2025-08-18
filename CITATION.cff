@@ -1,8 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it as below."
 authors:
-- family-names: "Hasibul Hasan"
-  given-names: "Rupok"
+- family-names: "Hasibul Hasan Rupok"
   orcid: "https://orcid.org/0009-0004-9188-2148"
 title: "ODI Batsman Dataset"
 version: 0.1.0
