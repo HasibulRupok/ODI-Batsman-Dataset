@@ -53,12 +53,17 @@ Hasibul Hasan Rupok. (2025). ODI Batsman Dataset (Version 0.1.0) [Data set]. htt
 ### BibTeX
 ```bibtex
   @misc{Hasibul_Hasan_Rupok_ODI_Batsman_Dataset_2025,
-  author = {Hasibul Hasan Rupok},
-  doi = {10.5281/zenodo.16895584},
-  month = aug,
-  title = {{ODI Batsman Dataset}},
-  url = {https://github.com/HasibulRupok/ODI-Batsman-Dataset},
-  year = {2025}
+  author       = {Hasibul Hasan Rupok},
+  title        = {{ODI Batsman Dataset}},
+  year         = {2025},
+  month        = aug,
+  publisher    = {Zenodo},
+  version      = {0.2.0}, 
+  doi          = {10.5281/zenodo.16911694},
+  url          = {https://zenodo.org/records/16911694},
+  note         = {Dataset and source code available at \url{https://github.com/HasibulRupok/ODI-Batsman-Dataset}},
+  howpublished = {\url{https://zenodo.org/records/16911694}}
 }
+
 ```
 
