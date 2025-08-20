@@ -32,6 +32,14 @@ Each row in the dataset corresponds to one ball faced by the batsman in an ODI m
 | 18-08-2008  | Dambulla | ODI          | Sri Lanka  | Chaminda Vaas  | Left-arm     | 4.3         | Fast        | Good Length     | 4      |
 
 
+## 🚀 Usage
+- Sports analytics – analyzing batting performance patterns
+- Machine learning research – predictive modeling of batting outcomes
+- Reinforcement learning – simulating decision-making in cricket
+- Data visualization – exploring trends in bowler-batsman interactions
+
+## 📌 License
+This dataset is released for research and educational purposes only. Please cite appropriately when used.
 
 ## 📖 Citation
 
