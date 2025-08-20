@@ -46,18 +46,17 @@ This dataset is released for research and educational purposes only. Please cite
 If you use this dataset in your research, please cite it as follows:
 
 ### APA
-Hasibul Hasan Rupok. (2025). *ODI Batsman Dataset* (Version 0.1.0) [Computer software]. https://doi.org/10.5281/zenodo.16895584
+Hasibul Hasan Rupok. (2025). ODI Batsman Dataset (Version 0.1.0) [Data set]. https://doi.org/10.5281/zenodo.16895583
 
 ### BibTeX
 ```bibtex
-@software{Hasibul_Hasan_Rupok_ODI_Batsman_Dataset_2025,
-  author = {Hasibul Hasan Rupok},
-  doi = {10.5281/zenodo.16895584},
-  month = aug,
-  title = {{ODI Batsman Dataset}},
-  url = {https://doi.org/10.5281/zenodo.16895584},
-  version = {0.1.0},
-  year = {2025}
-} 
+@misc{Hasibul_Hasan_Rupok_ODI_Batsman_Dataset_2025,
+author = {Hasibul Hasan Rupok},
+doi = {10.5281/zenodo.16895584},
+month = aug,
+title = {{ODI Batsman Dataset}},
+url = {https://github.com/HasibulRupok/ODI-Batsman-Dataset},
+year = {2025}
+}
 
 
