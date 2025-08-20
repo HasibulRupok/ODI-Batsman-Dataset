@@ -2,10 +2,10 @@
 
 [![DOI](https://zenodo.org/badge/1040193478.svg)](https://doi.org/10.5281/zenodo.16895583)
 
-# ODI Batsman Dataset
+# ODI Batsman Dataset 🎯
 
-This repository contains a novel dataset that captures **ball-by-ball details** of a batsman’s performance in One Day International (ODI) cricket matches.  
-Each entry records match-specific and delivery-specific features such as bowler details, delivery type, and batting outcome.  
+This repository contains the **ODI Batsman Dataset**, a novel dataset that records almost every ball faced by **Virat Kohli** in One Day International (ODI) cricket matches.  
+The dataset has been carefully compiled from multiple cricket commentary and video sources, making it one of the first ball-by-ball datasets of a single batsman in ODIs.
 
 The dataset has been archived and assigned a DOI via **Zenodo**.  
 
