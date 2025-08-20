@@ -11,3 +11,18 @@ url: "https://doi.org/10.5281/zenodo.16911694"
 repository-code: "https://github.com/HasibulRupok/ODI-Batsman-Dataset"
 type: dataset
 abstract: "Dataset and source code are available at the GitHub repository and archived with Zenodo."
+
+preferred-citation:
+  text/bibtex: |
+    @misc{Hasibul_Hasan_Rupok_ODI_Batsman_Dataset_2025,
+      author       = {Hasibul Hasan Rupok},
+      title        = {{ODI Batsman Dataset}},
+      year         = {2025},
+      month        = aug,
+      publisher    = {Zenodo},
+      version      = {0.2.0},
+      doi          = {10.5281/zenodo.16911694},
+      url          = {https://zenodo.org/records/16911694},
+      note         = {Dataset and source code available at https://github.com/HasibulRupok/ODI-Batsman-Dataset},
+      howpublished = {\url{https://zenodo.org/records/16911694}}
+    }
