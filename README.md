@@ -11,7 +11,7 @@ The dataset has been archived and assigned a DOI via **Zenodo**.
 
 ---
 
-📂 Dataset Description
+## 📂 Dataset Description
 Each row in the dataset corresponds to one ball faced by the batsman in an ODI match.
 - `Date & Year` – Date of the match
 - `Stadium` – Venue where the match was played
