@@ -1,12 +1,13 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it as below."
 authors:
-- family-names: "Hasibul Hasan Rupok"
-  orcid: "https://orcid.org/0009-0004-9188-2148"
+  - family-names: "Hasibul Hasan Rupok"
+    orcid: "https://orcid.org/0009-0004-9188-2148"
 title: "ODI Batsman Dataset"
-version: 0.1.0
-doi: 10.5281/zenodo.16895584
-date-released: 2025-08-18
-url: "https://doi.org/10.5281/zenodo.16895584"
+version: "0.2.0"
+doi: "10.5281/zenodo.16911694"
+date-released: 2025-08-20
+url: "https://doi.org/10.5281/zenodo.16911694"
 repository-code: "https://github.com/HasibulRupok/ODI-Batsman-Dataset"
 type: dataset
+abstract: "Dataset and source code are available at the GitHub repository and archived with Zenodo."
