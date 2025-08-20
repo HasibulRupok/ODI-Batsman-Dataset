@@ -7,9 +7,14 @@
 This repository contains the **ODI Batsman Dataset**, a novel dataset that records almost every ball faced by **Virat Kohli** in One Day International (ODI) cricket matches.  
 The dataset has been carefully compiled from multiple cricket commentary and video sources, making it one of the first ball-by-ball datasets of a single batsman in ODIs.
 
-The dataset has been archived and assigned a DOI via **Zenodo**.  
+The dataset has been archived and assigned a DOI via **Zenodo**. [![DOI](https://zenodo.org/badge/1040193478.svg)](https://doi.org/10.5281/zenodo.16895583)
 
 ---
+
+## 🔍 Data Source
+- ESPNcricinfo Commentary
+- Cricbuzz
+- Youtube
 
 ## 📂 Dataset Description
 Each row in the dataset corresponds to one ball faced by the batsman in an ODI match.
