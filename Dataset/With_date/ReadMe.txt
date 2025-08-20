@@ -1,0 +1,1 @@
+This folder contains all the raw data collected from internrt, there may have some misspelled words, but it contains date of all the matches.
