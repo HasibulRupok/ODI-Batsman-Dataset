@@ -47,7 +47,7 @@ If you use this dataset in your research, please cite it as follows:
 
 ### APA
 ```
-Hasibul Hasan Rupok. (2025). ODI Batsman Dataset (Version 0.1.0) [Data set]. https://doi.org/10.5281/zenodo.16895583
+Hasibul Hasan Rupok. (2025). ODI Batsman Dataset (Version 0.2.0) [Data set]. https://doi.org/10.5281/zenodo.16911694
 ```
 
 ### BibTeX
