@@ -24,6 +24,12 @@ Each row in the dataset corresponds to one ball faced by the batsman in an ODI m
 - `Delivery type` – Nature of delivery (Good Length, Short Ball, etc.)
 - `Runs/W` – Runs scored or Wicket outcome on that ball
 
+## 📊 Sample Data
+Date & Year   Stadium   Match format   Country     Bowler name     Bowling Hand   Over number   Bowler type   Delivery type     Runs/W
+18-08-2008    Dambulla  ODI            Sri Lanka   Chaminda Vaas   Left-arm       4.1           Fast          Straight Seam     0
+18-08-2008    Dambulla  ODI            Sri Lanka   Chaminda Vaas   Left-arm       4.2           Fast          Good Length       0
+18-08-2008    Dambulla  ODI            Sri Lanka   Chaminda Vaas   Left-arm       4.3           Fast          Good Length       0
+
 
 ## 📖 Citation
 
