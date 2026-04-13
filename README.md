@@ -52,13 +52,13 @@ If you use this dataset in your research, please cite it as follows:
 
 ### APA
 ```
-Hasibul Hasan Rupok. (2025). ODI Batsman Dataset (Version 0.2.0) [Data set]. https://doi.org/10.5281/zenodo.16911694
+Hasibul Hasan Rupok, et al. (2025). ODI Batsman Dataset (Version 0.2.0) [Data set]. https://doi.org/10.5281/zenodo.16911694
 ```
 
 ### BibTeX
 ```bibtex
   @misc{Hasibul_Hasan_Rupok_ODI_Batsman_Dataset_2025,
-  author       = {Hasibul Hasan Rupok},
+  author       = {Hasibul Hasan Rupok, et al.},
   title        = {{ODI Batsman Dataset}},
   year         = {2025},
   month        = aug,
