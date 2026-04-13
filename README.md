@@ -2,7 +2,7 @@
 
 [[DOI](https://zenodo.org/badge/1040193478.svg)](https://doi.org/10.5281/zenodo.16895583)
 
-[![DOI](https://zenodo.org/badge/1040193478.svg)](https://doi.org/10.5281/zenodo.16895583)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16911694.svg)](https://doi.org/10.5281/zenodo.16895583)
 
 # ODI Batsman Dataset 🎯
 
